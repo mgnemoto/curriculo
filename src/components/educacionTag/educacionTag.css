@@ -1,0 +1,26 @@
+.texto-background{
+    padding: 1%;
+    background-color: purple;
+    width: 50%;
+    margin-top: 1%;
+    border-radius: 8px;
+    border: solid black;
+    color: white;
+    display: grid;
+    grid-template-columns: 50% 50% ;
+    transition: .7s;
+}
+
+.texto-background:hover{
+    margin: 4% 3% 3% 3%;
+    transform:scale(1.2)
+}
+
+.educacion-img{
+    cursor: pointer;
+    transition: .6s;
+}
+
+.educacion-img:active{
+    transform: scale(1.3);
+}

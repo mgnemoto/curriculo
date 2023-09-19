@@ -7,7 +7,7 @@ const Home = ()=>{
         <div className="background-gradient">
             <ResumeTag id="resumen" titulo="Resumen" descripcion="Soy desarrollador frontend con estudios hechos en diversos bootcamps. Estoy en búsqueda de mi primer empleo tecnológico. Tengo conocimientos en HTML, CSS, Bootstrap, Javascript, React, Git, GitHub, Firebase, entre otros; También en armado, reparación y optimización de computadoras; Y un nivel de inglés funcional."/>
 
-            <ResumeTag id="educacion" titulo="Educación" descripcion="Estudié dos años ingeniería en la universidad. Tengo varios cursos de programación, algunos culminados y otros abandonados. Mis conocimientos más fuertes son HTML, CSS, Bootstrap, Javascript, React, Git y Github."/>
+            <ResumeTag id="educacion" titulo="Educación" descripcion="Estudié dos años ingeniería en la universidad. Hice varios cursos de programación. Mis conocimientos más fuertes son HTML, CSS, Bootstrap, Javascript, React, Git y Github."/>
 
             <ResumeTag id="trabajo" titulo="Experiencia laboral" descripcion="He hecho varios sitios web a modo de práctica con HTML, CSS, SCSS, Bootstrap, Javascript, JQuery, React, Firebase, Git y Github. De manera formal, he trabajado como supervisor, cajero y repartidor."/>
 
