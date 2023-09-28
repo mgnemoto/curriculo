@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/curriculo/static/css/main.eddc8458.css",
-    "main.js": "/curriculo/static/js/main.a211dad9.js",
+    "main.js": "/curriculo/static/js/main.986f6eb6.js",
     "static/js/787.595c645d.chunk.js": "/curriculo/static/js/787.595c645d.chunk.js",
     "static/media/Armado y reparacion de computadoras.PNG.jpg": "/curriculo/static/media/Armado y reparacion de computadoras.PNG.ee252f8e64cd8a2d3e66.jpg",
     "static/media/cebolla USB.jpg": "/curriculo/static/media/cebolla USB.b81cd21c2ff894355c7b.jpg",
@@ -10,11 +10,11 @@
     "static/media/Certificado React.png": "/curriculo/static/media/Certificado React.381461db02201b0db3ea.png",
     "index.html": "/curriculo/index.html",
     "main.eddc8458.css.map": "/curriculo/static/css/main.eddc8458.css.map",
-    "main.a211dad9.js.map": "/curriculo/static/js/main.a211dad9.js.map",
+    "main.986f6eb6.js.map": "/curriculo/static/js/main.986f6eb6.js.map",
     "787.595c645d.chunk.js.map": "/curriculo/static/js/787.595c645d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eddc8458.css",
-    "static/js/main.a211dad9.js"
+    "static/js/main.986f6eb6.js"
   ]
 }
