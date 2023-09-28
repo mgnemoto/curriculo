@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.eddc8458.css",
-    "main.js": "/static/js/main.40e3ebb7.js",
-    "static/js/787.595c645d.chunk.js": "/static/js/787.595c645d.chunk.js",
-    "static/media/Armado y reparacion de computadoras.PNG.jpg": "/static/media/Armado y reparacion de computadoras.PNG.ee252f8e64cd8a2d3e66.jpg",
-    "static/media/cebolla USB.jpg": "/static/media/cebolla USB.b81cd21c2ff894355c7b.jpg",
-    "static/media/Certificado Desarrollo web.png": "/static/media/Certificado Desarrollo web.68f71a599e37f68a601f.png",
-    "static/media/Certificado Javascript.png": "/static/media/Certificado Javascript.12397eb766e99939c7ca.png",
-    "static/media/Certificado React.png": "/static/media/Certificado React.381461db02201b0db3ea.png",
-    "index.html": "/index.html",
-    "main.eddc8458.css.map": "/static/css/main.eddc8458.css.map",
-    "main.40e3ebb7.js.map": "/static/js/main.40e3ebb7.js.map",
-    "787.595c645d.chunk.js.map": "/static/js/787.595c645d.chunk.js.map"
+    "main.css": "/curriculo/static/css/main.eddc8458.css",
+    "main.js": "/curriculo/static/js/main.a211dad9.js",
+    "static/js/787.595c645d.chunk.js": "/curriculo/static/js/787.595c645d.chunk.js",
+    "static/media/Armado y reparacion de computadoras.PNG.jpg": "/curriculo/static/media/Armado y reparacion de computadoras.PNG.ee252f8e64cd8a2d3e66.jpg",
+    "static/media/cebolla USB.jpg": "/curriculo/static/media/cebolla USB.b81cd21c2ff894355c7b.jpg",
+    "static/media/Certificado Desarrollo web.png": "/curriculo/static/media/Certificado Desarrollo web.68f71a599e37f68a601f.png",
+    "static/media/Certificado Javascript.png": "/curriculo/static/media/Certificado Javascript.12397eb766e99939c7ca.png",
+    "static/media/Certificado React.png": "/curriculo/static/media/Certificado React.381461db02201b0db3ea.png",
+    "index.html": "/curriculo/index.html",
+    "main.eddc8458.css.map": "/curriculo/static/css/main.eddc8458.css.map",
+    "main.a211dad9.js.map": "/curriculo/static/js/main.a211dad9.js.map",
+    "787.595c645d.chunk.js.map": "/curriculo/static/js/787.595c645d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eddc8458.css",
-    "static/js/main.40e3ebb7.js"
+    "static/js/main.a211dad9.js"
   ]
 }
